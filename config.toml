@@ -1,5 +1,5 @@
 baseURL = 'https://abdulbari-blog.netlify.app/'
 languageCode = 'en-us'
 title = 'Abdulbari Blog'
-theme="SimpleIntro"
+theme="SimpleIntro1"
 
