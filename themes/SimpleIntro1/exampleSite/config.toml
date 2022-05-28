@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 theme = "SimpleIntro"
-title = "Theme Demo"
+title = "Home page"
 publishDir = "public"
 
 [params]
